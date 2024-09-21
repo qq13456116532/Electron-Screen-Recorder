@@ -1,5 +1,7 @@
 # Electron Screen Recorder
 
+[English Version README](README.md)
+
 这个项目是一个使用 Electron、Vite 和 Vue.js 构建的屏幕录制应用程序。它允许用户选择一个视频源（例如屏幕）并进行录制。录制的视频将保存为 WebM 格式。该应用展示了如何使用 Electron 的桌面捕获功能以及 Vue.js 来构建一个简单的前端界面。
 
 ## 程序运行截图
